@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-moralis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Moralis MCP — wraps the Moralis Web3 Data API (moralis.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-0039381537ab1d356c666312a5f267f0047193ec4a62bd5c42911a2190870bca",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }

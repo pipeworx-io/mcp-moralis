@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/moralis",
   "title": "Moralis",
   "description": "Moralis MCP — wraps the Moralis Web3 Data API (moralis.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/moralis",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-moralis",
